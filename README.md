@@ -45,6 +45,20 @@ List.Dates(
 
 
 Step 3: Convert List to Table
-Step 4: Add Date Attributes
+  ```powerquery
+Table.FromList(DateList, Splitter.SplitByNothing(), {"Date"})
 
- 
+Step 4: Add Date Attributes
+ ```powerquery
+**YEAR
+ Table.AddColumn(#"Changed column type with locale", "Year", each Date.Year([Date]), type nullable number)
+
+**MONTH NAME:
+Table.AddColumn(#"Inserted year", "Month name", each Date.MonthName([Date]), type nullable text)
+
+**QUARTER-YEAR:
+Table.AddColumn(#"Removed columns 2", "Quarter-Year", each Text.From(Date.Year([Date])) & "-" & "Qrt" & " " & Text.From(Date.QuarterOfYear([Date])), type text)
+
+**DAY NAME:
+Table.AddColumn(#"Inserted week of month", "Day name", each Date.DayOfWeekName([Date]), type nullable text)
+
