@@ -29,27 +29,27 @@ This project aims to uncover insights from CRM sales data to answer the followin
 To analyze time-based trends, a **custom Date Table** was created in Power Query.
 
 **Step 1: Identify Date Range**
+ ```powerquery
 - Earliest engagement date:  
-  ```powerquery
+
   List.Min(List.RemoveNulls(Source[engage_date]))
 - Latest close date:
-    ```powerquery
+  
   List.Min(List.RemoveNulls(Source[engage_date]))
 **Step 2: Generate Date List
-  ```powerquery
+
 List.Dates(
     StartDate, 
     Duration.Days(EndDate - StartDate) + 1, 
     #duration(1, 0, 0, 0)
 )
 
-
 Step 3: Convert List to Table
-  ```powerquery
+  
 Table.FromList(DateList, Splitter.SplitByNothing(), {"Date"})
 
 Step 4: Add Date Attributes
- ```powerquery
+ 
 **YEAR
  Table.AddColumn(#"Changed column type with locale", "Year", each Date.Year([Date]), type nullable number)
 
