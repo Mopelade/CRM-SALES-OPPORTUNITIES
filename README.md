@@ -61,4 +61,18 @@ Table.AddColumn(#"Removed columns 2", "Quarter-Year", each Text.From(Date.Year([
 
 **DAY NAME:
 Table.AddColumn(#"Inserted week of month", "Day name", each Date.DayOfWeekName([Date]), type nullable text)
+ ```
 
+Data Modelling
+
+Schema Design: Implemented a Star Schema to ensure optimized querying and clear separation of dimensions and facts.
+
+Relationships:
+
+The fact table is the Sales Pipeline.
+
+The dimension tables are Date Table, Accounts, Products, and Sales Team.
+
+All relationships follow a one-to-many structure, with each dimension table on the one side and the Sales Pipeline on the many side.
+
+Storage Mode: All tables were imported using the Import storage mode for faster performance, as the dataset is relatively small.
