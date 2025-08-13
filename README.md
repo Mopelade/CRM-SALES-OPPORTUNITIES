@@ -34,4 +34,17 @@ To analyze time-based trends, a **custom Date Table** was created in Power Query
   List.Min(List.RemoveNulls(Source[engage_date]))
 - Latest close date:
     ```powerquery
- List.Min(List.RemoveNulls(Source[engage_date]))
+  List.Min(List.RemoveNulls(Source[engage_date]))
+**Step 2: Generate Date List
+  ```powerquery
+List.Dates(
+    StartDate, 
+    Duration.Days(EndDate - StartDate) + 1, 
+    #duration(1, 0, 0, 0)
+)
+
+
+Step 3: Convert List to Table
+Step 4: Add Date Attributes
+
+ 
