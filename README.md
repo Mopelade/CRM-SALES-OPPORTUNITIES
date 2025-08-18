@@ -80,7 +80,7 @@ Got it 👍 — let me rewrite your text into a **clean, polished README-ready v
 
 ### Interactivity & Drillthroughs
 
-To enhance **data interactivity**, I designed multiple **drillthrough pages** and **tooltips**, all supported with **table visualizations** for clear, detailed breakdowns:
+To enhance **data interactivity**, I designed multiple **drillthrough pages** and **tooltips**, and all **drillthrough pages**supported with **table visualizations** for clear, detailed breakdowns:
 
 * **Sales Team Drillthrough Page**
 
