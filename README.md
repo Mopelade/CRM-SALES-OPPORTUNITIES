@@ -103,18 +103,14 @@ To enhance **data interactivity**, I designed multiple **drillthrough pages** an
   * Highlights **pipeline health** by surfacing pending opportunities.
   * Displays: Account, Sales Agent, Product, Total Open Deals, Deal Age, and Open Deal Value.
  
-Insights And Dashboard
- 
-* **Sales Agent Performance Insights
+### Insights And Dashboard
+
+* **Sales Agent Performance Insights**
 
   *Top Performing Team: Melvin Marxen leads with a total deal value of $2.25M, while the      lowest-performing team is Dustin Brinkmann with $1.09M.
-
-Highest Average Deal Size: Elesse Gluck tops the list with an average deal size of $3,615, followed by Darccel Schlercht. On the lower end, Violett Michelland has the smallest average deal size at $1,011, followed by Versie Hillebrand.
-
-Top Revenue Generator: Darccel Schlercht generated the highest total revenue at $1,153,214, while Violett Michelland recorded the lowest at $123,431.
-
-Best Month: June 2012 recorded the highest monthly sales at $1,338,466, although sales performance shows noticeable fluctuations throughout the months.
-
+  * Highest Average Deal Size: Elesse Gluck tops the list with an average deal size of $3,615, followed by Darccel Schlercht. On the lower end, Violett Michelland has the smallest average deal size at $1,011, followed by Versie Hillebrand.
+  * Top Revenue Generator: Darccel Schlercht generated the highest total revenue at $1,153,214, while Violett Michelland recorded the lowest at $123,431.
+  * Best Month: June 2012 recorded the highest monthly sales at $1,338,466, although sales performance shows noticeable fluctuations throughout the months.
   ![](salesAgentPeformance.png)
 
 
