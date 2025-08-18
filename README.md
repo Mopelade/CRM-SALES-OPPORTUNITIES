@@ -103,6 +103,8 @@ To enhance **data interactivity**, I designed multiple **drillthrough pages** an
   * Highlights **pipeline health** by surfacing pending opportunities.
   * Displays: Account, Sales Agent, Product, Total Open Deals, Deal Age, and Open Deal Value.
 
+  ![](Dashboard_Customer_seg.jpg)
+
 
 
 
