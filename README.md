@@ -113,6 +113,49 @@ To enhance **data interactivity**, I designed multiple **drillthrough pages** an
   * Best Month: June 2012 recorded the highest monthly sales at $1,338,466, although sales performance shows noticeable fluctuations throughout the months.
   ![](salesAgentPeformance.png)
 
+##  Product & Account Performance Analysis
+
+###  Product Performance
+ ![](salesAgentPeformance.png)
+**Best-Selling Product**
+- **GTX Basic** recorded the **highest sales volume** with **1,563 units sold**.  
+  → Indicates strong market demand and consistent customer preference.  
+
+**Lowest-Selling Product**
+- **GTK 500** sold only **32 units**.  
+  → Suggests limited appeal or possible issues with **pricing, positioning, or availability**.  
+
+**Top "Hot Product" Performer**
+- **GTX Pro** stands out as a high-impact product with:  
+  - **58% win rate** (above-average sales conversion).  
+  - **Fast sales cycle** — closes in **<46 days**.  
+  - **Highest revenue contribution** — generating **$3,510,578**.  
+
+➡ This combination of **high win rate**, **short closure time**, and **strong revenue impact** makes GTX Pro a **key revenue driver**.  
+
+**Comparable High-Win-Rate Products**
+- **MG Special**: 58% win rate, closes in 48 days, generates **$43,765**.  
+- **GTX 500**: 46.88% win rate, 53-day sales cycle, contributes **$400,612**.  
+
+ **Key Insight**: Products that combine **high win rate + fast closure + strong revenue** (like GTX Pro) deliver the **greatest business impact**.  
+Scaling similar products could further **boost overall sales performance**.  
+
+---
+
+###  Account Performance
+ ![](salesAgentPeformance.png)
+**Top-Performing Accounts**
+- **Kancode** → **$341,455 revenue**, making it the **most valuable account**.  
+- **Konex** → **$269,245 revenue**, showing strong and consistent sales performance.  
+
+**Lowest-Performing Accounts**
+- **Goldex** → **$52,000 revenue**, minimal contribution to overall sales.  
+- **Zathunicon** → **$56,000 revenue**, slightly higher but still far below top performers.  
+
+**Key Insight**:  
+A significant **performance gap** exists between top and bottom accounts.  
+Strengthening relationships with **mid-to-low performers**, or **reallocating focus** to high-return accounts, could improve overall **revenue efficiency**.  
+
 
 
 
