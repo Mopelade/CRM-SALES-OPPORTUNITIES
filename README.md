@@ -74,21 +74,37 @@ All relationships follow a one-to-many structure, with each dimension table on t
 ## Storage Mode: All tables were imported using the Import storage mode for faster performance, as the dataset is relatively small.
 
 
-# Interactivity & Drillthroughs
+Got it 👍 — let me rewrite your text into a **clean, polished README-ready version** while keeping all the details you shared:
 
-To enhance data exploration and user experience, multiple drillthrough pages and dynamic tooltips were designed:
-## Sales Team Drillthrough Page
-Performance by Sales Agent and Manager
-KPIs: Total Deals, Revenue, Avg Deal Size, Won Deals, Lost Deals, Open Deals, Win Rate %, Avg Close Days
+---
 
-## Account Drillthrough Page
-Insights at the Account & Sector level
-KPIs: Total Deals, Revenue, Avg Deal Size, Won/Lost/Open Deals, Win Rate %, Avg Close Days
+### Interactivity & Drillthroughs
 
-## Product Drillthrough Page
-Focused on Product performance
-KPIs: Total Deals, Revenue, Avg Deal Size, Won/Lost/Open Deals, Win Rate %, Avg Close Days
+To enhance **data interactivity**, I designed multiple **drillthrough pages** and **tooltips**, all supported with **table visualizations** for clear, detailed breakdowns:
 
-## Open Deals Drillthrough Page
-Highlights pipeline health
-Shows: Account, Sales Agent, Product, Total Open Deals, Deal Value, Deal Age
+* **Sales Team Drillthrough Page**
+
+  * Provides performance at the **sales agent and manager** level.
+  * Includes details of every product sold per agent.
+  * KPIs: Total Deals, Revenue, Avg Deal Size, Total Won Deals, Total Lost Deals, Total Open Deals, Win Rate %, Avg Close Days.
+
+* **Account Drillthrough Page**
+
+  * Focused on **accounts and their sectors**, along with the sales agents tied to each account.
+  * KPIs: Total Deals, Revenue, Avg Deal Size, Won/Lost/Open Deals, Win Rate %, Avg Close Days.
+
+* **Product Drillthrough Page**
+
+  * Shows performance at the **product level**.
+  * KPIs: Total Deals, Revenue, Avg Deal Size, Won/Lost/Open Deals, Win Rate %, Avg Close Days.
+
+* **Open Deals Drillthrough Page**
+
+  * Highlights **pipeline health** by surfacing pending opportunities.
+  * Displays: Account, Sales Agent, Product, Total Open Deals, Deal Age, and Open Deal Value.
+
+
+
+
+
+
