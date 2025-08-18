@@ -116,7 +116,7 @@ To enhance **data interactivity**, I designed multiple **drillthrough pages** an
 ##  Product & Account Performance Analysis
 
 ###  Product Performance
- ![](salesAgentPeformance.png)
+ ![](productPerformance.png)
 **Best-Selling Product**
 - **GTX Basic** recorded the **highest sales volume** with **1,563 units sold**.  
   → Indicates strong market demand and consistent customer preference.  
