@@ -143,7 +143,7 @@ Scaling similar products could further **boost overall sales performance**.
 ---
 
 ###  Account Performance
- ![](salesAgentPeformance.png)
+ ![](accountAnalysis.png)
 **Top-Performing Accounts**
 - **Kancode** → **$341,455 revenue**, making it the **most valuable account**.  
 - **Konex** → **$269,245 revenue**, showing strong and consistent sales performance.  
