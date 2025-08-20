@@ -105,6 +105,8 @@ To enhance **data interactivity**, I designed multiple **drillthrough pages** an
  
 ### Insights And Dashboard
 
+Here is the link to my Power BI Report: https://app.fabric.microsoft.com/links/H_rKvsv7UC?ctid=056e52ff-3fcb-4f6b-8251-481ea120fd41&pbi_source=linkShare&bookmarkGuid=856fea73-fce5-4dea-b967-edf9c074b9a1
+
 * **Sales Agent Performance Insights**
 ![](salesAgentPeformance.png)
   *Top Performing Team: Melvin Marxen leads with a total deal value of $2.25M, while the      lowest-performing team is Dustin Brinkmann with $1.09M.
