@@ -73,9 +73,6 @@ All relationships follow a one-to-many structure, with each dimension table on t
 
 ## Storage Mode: All tables were imported using the Import storage mode for faster performance, as the dataset is relatively small.
 
-
-Got it 👍 — let me rewrite your text into a **clean, polished README-ready version** while keeping all the details you shared:
-
 ---
 
 ### Interactivity & Drillthroughs
